@@ -23,8 +23,7 @@ Passionate about building scalable decision-support systems using mathematical p
 - Sensor-Driven Maintenance Optimization for Power Systems (Ph.D. Research)
 - Item Slotting Optimization in Medical Warehouses (Ph.D. Research)
 
-🔗 [Google Scholar](https://scholar.google.com/citations?hl=en&user=TNy_DI8AAAAJ) 
-🔗 [LinkedIn](https://www.linkedin.com/in/farnaz-fallahi-749aa5ab/) 
+🔗 [Publications](https://scholar.google.com/citations?hl=en&user=TNy_DI8AAAAJ) 
 
 ---
 
