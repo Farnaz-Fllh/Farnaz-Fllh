@@ -1,6 +1,37 @@
-💡 Senior Data Scientist | Operations Researcher | Optimization Enthusiast
-Passionate about building scalable decision-support systems using mathematical programming, machine learning, and simulation. Experienced in solving complex problems across supply chain, finance, and energy systems.
+# 👋 Hi, I'm Farnaz
 
-📍 Currently at Walmart | Ph.D. in Industrial & Systems Engineering
+💡 **Senior Data Scientist | Operations Researcher | Optimization Enthusiast**  
+Passionate about building scalable decision-support systems using mathematical programming, machine learning, and simulation. I specialize in solving complex problems across supply chain, finance, and energy systems.
 
-🔍 Focused on bridging OR + AI | Always learning | Open to collaboration
+📍 Currently working at **Walmart**  
+🎓 Ph.D. in **Industrial & Systems Engineering**  
+🔍 Bridging the gap between **Operations Research** and **AI**  
+
+---
+
+### 🛠️ Technical Skills
+- **Mathematical Optimization**: MIP, LP, Stochastic Programming
+- **Data Science**: Machine Learning, Time Series Forecasting, Predictive Modeling
+- **Simulation**: Rolling-horizon Simulation, Monte Carlo, Discrete-Event
+- **Tools & Libraries**: Python, Gurobi, CPLEX, Xpress, SQL, PySpark, Scikit-learn
+
+---
+
+### 🚀 Projects & Research
+- Relay Network Design for Long-Haul Optimization (Walmart)
+- Marketing Optimization Models for Customer Acquisition (TD Bank)
+- Sensor-Driven Maintenance Optimization for Power Systems (Ph.D. Research)
+- Item Slotting Optimization in Medical Warehouses (Ph.D. Research)
+
+🔗 [Google Scholar](https://scholar.google.com/citations?hl=en&user=TNy_DI8AAAAJ) 
+🔗 [LinkedIn](https://www.linkedin.com/in/farnaz-fallahi-749aa5ab/) 
+
+---
+
+### 📫 Let's Connect
+Feel free to reach out via [Email](mailto:fallahifarnaz@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/farnaz-fallahi-749aa5ab/). I'm always open to new ideas, collaborations, and solving impactful problems together.
+
+---
+
+*“Mathematics is the art of giving the same name to different things.” – Henri Poincaré*
+
