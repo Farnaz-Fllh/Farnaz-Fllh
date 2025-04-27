@@ -11,7 +11,7 @@ Passionate about building scalable decision-support systems using mathematical p
 
 ### 🛠️ Technical Skills
 - **Mathematical Optimization**: MIP, LP, Stochastic Programming
-- **Data Science**: Machine Learning, Time Series Forecasting, Predictive Modeling
+- **Data Science**: Machine Learning, Time Series Forecasting, Predictive Modeling, Causal Inference
 - **Simulation**: Rolling-horizon Simulation, Monte Carlo, Discrete-Event
 - **Tools & Libraries**: Python, Gurobi, CPLEX, Xpress, SQL, PySpark, Scikit-learn
 
